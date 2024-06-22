@@ -1,0 +1,18 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Home" parallel="classes" thread-count="4">
+    <parameter name=" browser" value="chrome"/>
+    <parameter name="environment" value="qa" />
+    <parameter name="userType" value="admin"/>
+    <parameter name="site" value="p5"/>
+
+    <listeners>
+        <listener class-name="listeners.TestListener"/>
+    </listeners>
+
+    <test name="Home webTests" enabled="true">
+      <classes>
+          <class name="webTests.HomeTest"/>
+          <class name="webTests.HomeTest2"/>
+      </classes>
+    </test>
+</suite>

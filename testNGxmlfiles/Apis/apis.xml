@@ -1,0 +1,16 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="apis">
+
+    <parameter name="environment" value="qa" />
+    <parameter name="userType" value="admin"/>
+
+    <listeners>
+        <listener class-name="listeners.ApiTestListener"/>
+    </listeners>
+
+    <test name="apis" enabled="true">
+      <classes>
+          <class name="api.apiTests.UserTests"/>
+      </classes>
+    </test>
+</suite>

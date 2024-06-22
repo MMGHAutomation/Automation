@@ -1,0 +1,45 @@
+2024-06-21-21-42-21-246 [main] INFO  webTests.TestBase - environment : qa
+2024-06-21-21-42-21-247 [main] INFO  webTests.TestBase - userType : admin
+2024-06-21-21-42-21-249 [main] INFO  webTests.TestBase - Extent Reports Version 3 Test Suite started!
+2024-06-21-21-42-21-249 [main] INFO  webTests.TestBase - Home webTests
+2024-06-21-21-42-21-251 [main] INFO  utilities.ExtentManager - Directory already exists: /Users/minahermina/Documents/Automation/Temp/TestReport
+2024-06-21-21-42-21-251 [main] INFO  utilities.ExtentManager - ExtentReport Path for MAC: /Users/minahermina/Documents/Automation/Temp/TestReport/21-06-2024
+
+2024-06-21-21-42-21-251 [main] INFO  utilities.ExtentManager - HTML report Location  : /Users/minahermina/Documents/Automation/Temp/TestReport/21-06-2024/Home webTests-admin User -qa-21-06-24.html
+2024-06-21-21-42-22-809 [TestNG-test=Home webTests-2] INFO  webTests.TestBase - https://www.amazon.com/
+2024-06-21-21-42-22-809 [TestNG-test=Home webTests-1] INFO  webTests.TestBase - https://www.amazon.com/
+2024-06-21-21-42-22-812 [TestNG-test=Home webTests-2] INFO  webTests.TestBase - Automation_Script_user_Stage@siliconexpert.cn
+2024-06-21-21-42-22-815 [TestNG-test=Home webTests-1] INFO  webTests.TestBase - Automation_Script_user_Stage@siliconexpert.cn
+2024-06-21-21-42-22-821 [TestNG-test=Home webTests-2] INFO  webTests.TestBase - Asd123!@#4
+2024-06-21-21-42-22-826 [TestNG-test=Home webTests-1] INFO  webTests.TestBase - Asd123!@#4
+2024-06-21-21-42-22-828 [TestNG-test=Home webTests-2] INFO  webTests.TestBase - Navigate to + https://www.amazon.com/
+2024-06-21-21-42-22-832 [TestNG-test=Home webTests-1] INFO  webTests.TestBase - Navigate to + https://www.amazon.com/
+2024-06-21-21-42-25-416 [TestNG-test=Home webTests-2] INFO  webTests.HomeTest2 - checkFashionTitle started!
+2024-06-21-21-42-25-426 [TestNG-test=Home webTests-2] INFO  webTests.HomeTest2 - in test case 1 , first step
+2024-06-21-21-42-25-450 [TestNG-test=Home webTests-2] INFO  webTests.HomeTest2 - checkFashionTitle passed!
+2024-06-21-21-42-25-451 [TestNG-test=Home webTests-2] INFO  webTests.HomeTest2 - tc2 started!
+2024-06-21-21-42-25-456 [TestNG-test=Home webTests-2] INFO  webTests.HomeTest2 - in test case 2 , first step
+2024-06-21-21-42-25-456 [TestNG-test=Home webTests-2] INFO  pages.Home.HomePage - home page logs
+2024-06-21-21-42-25-475 [TestNG-test=Home webTests-2] INFO  webTests.HomeTest2 - tc2 passed!
+2024-06-21-21-42-25-476 [TestNG-test=Home webTests-2] INFO  webTests.HomeTest2 - checkDadGift started!
+2024-06-21-21-42-25-480 [TestNG-test=Home webTests-2] INFO  webTests.HomeTest2 - in test case 3 , first step
+2024-06-21-21-42-25-480 [TestNG-test=Home webTests-2] INFO  pages.Home.HomePage - home page logs
+2024-06-21-21-42-26-313 [TestNG-test=Home webTests-1] INFO  webTests.HomeTest - checkFashionTitle started!
+2024-06-21-21-42-26-348 [TestNG-test=Home webTests-1] INFO  webTests.HomeTest - checkFashionTitle passed!
+2024-06-21-21-42-26-348 [TestNG-test=Home webTests-1] INFO  webTests.HomeTest - tc2 started!
+2024-06-21-21-42-26-352 [TestNG-test=Home webTests-1] INFO  pages.Home.HomePage - home page logs
+2024-06-21-21-42-26-371 [TestNG-test=Home webTests-1] INFO  webTests.HomeTest - tc2 passed!
+2024-06-21-21-42-26-372 [TestNG-test=Home webTests-1] INFO  webTests.HomeTest - checkDadGift started!
+2024-06-21-21-42-26-378 [TestNG-test=Home webTests-1] INFO  pages.Home.HomePage - home page logs
+2024-06-21-21-42-55-533 [TestNG-test=Home webTests-2] ERROR pages.Home.HomePage - Element not found : By.xpath: //h2[text()='Deals on gifts for Dad']
+2024-06-21-21-42-55-535 [TestNG-test=Home webTests-2] INFO  webTests.HomeTest - checkDadGift failed!
+2024-06-21-21-42-55-913 [TestNG-test=Home webTests-2] INFO  webTests.HomeTest - tc4 started!
+2024-06-21-21-42-55-917 [TestNG-test=Home webTests-2] INFO  webTests.HomeTest - in test case 4 , first step
+2024-06-21-21-42-55-917 [TestNG-test=Home webTests-2] INFO  pages.Home.HomePage - home page logs
+2024-06-21-21-42-55-929 [TestNG-test=Home webTests-2] INFO  webTests.HomeTest - tc4 passed!
+2024-06-21-21-42-56-434 [TestNG-test=Home webTests-1] ERROR pages.Home.HomePage - Element not found : By.xpath: //h2[text()='Deals on gifts for Dad']
+2024-06-21-21-42-56-435 [TestNG-test=Home webTests-1] INFO  webTests.HomeTest - checkDadGift failed!
+2024-06-21-21-42-56-801 [TestNG-test=Home webTests-1] INFO  webTests.HomeTest - tc4 started!
+2024-06-21-21-42-56-805 [TestNG-test=Home webTests-1] INFO  pages.Home.HomePage - home page logs
+2024-06-21-21-42-56-820 [TestNG-test=Home webTests-1] INFO  webTests.HomeTest - tc4 failed!
+2024-06-21-21-42-57-336 [main] INFO  webTests.HomeTest - Extent Reports Version 3  Test Suite is ending!

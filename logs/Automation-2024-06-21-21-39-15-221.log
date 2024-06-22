@@ -1,0 +1,25 @@
+2024-06-21-21-39-15-347 [main] INFO  api.apiTests.UserTests - environment : qa
+2024-06-21-21-39-15-348 [main] INFO  api.apiTests.UserTests - userType : admin
+2024-06-21-21-39-15-350 [main] INFO  listeners.ApiTestListener - Extent Reports Version 3 Test Suite started!
+2024-06-21-21-39-15-350 [main] INFO  listeners.ApiTestListener - apis
+2024-06-21-21-39-15-354 [main] INFO  utilities.ExtentManager - Directory already exists: /Users/minahermina/Documents/Automation/Temp/TestReport
+2024-06-21-21-39-15-354 [main] INFO  utilities.ExtentManager - ExtentReport Path for MAC: /Users/minahermina/Documents/Automation/Temp/TestReport/21-06-2024
+
+2024-06-21-21-39-15-354 [main] INFO  utilities.ExtentManager - HTML report Location  : /Users/minahermina/Documents/Automation/Temp/TestReport/21-06-2024/apis-admin User -qa-21-06-24.html
+2024-06-21-21-39-15-500 [main] INFO  listeners.ApiTestListener - createUserTest started!
+2024-06-21-21-39-15-506 [main] ERROR api.apiTests.UserTests - post, Create user
+2024-06-21-21-39-17-135 [main] INFO  api.apiTests.UserTests -  user created
+2024-06-21-21-39-17-136 [main] INFO  listeners.ApiTestListener - createUserTest passed!
+2024-06-21-21-39-17-140 [main] INFO  listeners.ApiTestListener - getUserTest started!
+2024-06-21-21-39-17-141 [main] INFO  api.apiTests.UserTests -  get user 
+2024-06-21-21-39-17-141 [main] INFO  api.apiTests.UserTests - call  post method 
+2024-06-21-21-39-17-853 [main] INFO  api.apiTests.UserTests - print log
+2024-06-21-21-39-17-853 [main] INFO  api.apiTests.UserTests - Assert status code 
+2024-06-21-21-39-17-853 [main] INFO  listeners.ApiTestListener - getUserTest passed!
+2024-06-21-21-39-17-854 [main] INFO  listeners.ApiTestListener - updateUserTest started!
+2024-06-21-21-39-17-855 [main] INFO  api.apiTests.UserTests -   put method 
+2024-06-21-21-39-17-855 [main] INFO  api.apiTests.UserTests - Update data 
+2024-06-21-21-39-18-630 [main] INFO  listeners.ApiTestListener - updateUserTest passed!
+2024-06-21-21-39-18-632 [main] INFO  listeners.ApiTestListener - deletUserTest started!
+2024-06-21-21-39-19-316 [main] INFO  listeners.ApiTestListener - deletUserTest passed!
+2024-06-21-21-39-19-320 [main] INFO  listeners.ApiTestListener - Extent Reports Version 3  Test Suite is ending!
